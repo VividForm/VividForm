@@ -1,16 +1,16 @@
-## Hi there 👋
+# VividForm
 
-<!--
-**VividForm/VividForm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Image Workflows Made Simple
 
-Here are some ideas to get you started:
+VividForm develops desktop software for photographers, eCommerce businesses and creative teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Features
+
+- Batch image renaming
+- AI filename suggestions (Pro)
+- PDF processing reports
+- Windows & macOS
+
+🌐 Website: https://www.vividform.uk
+
+📺 YouTube: https://www.youtube.com/@VividForm
