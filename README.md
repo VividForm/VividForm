@@ -13,4 +13,4 @@ VividForm develops desktop software for photographers, eCommerce businesses and 
 
 🌐 Website: https://www.vividform.uk
 
-📺 YouTube: https://www.youtube.com/@VividForm
+📺 YouTube: https://www.youtube.com/@VividFormUK
